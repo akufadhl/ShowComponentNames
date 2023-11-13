@@ -1,11 +1,15 @@
 ## Show Component names Plug-in
 
+![Preview using IBM Plex Arabic](./PreviewIBMPlexArabic.png)
+preview using IBM Plex Arabic
+
+
 A simple plugin to show the basic component names of the selected glyph.
 
 ## License
 
 License
-Copyright 2023 [Fadhl Haqq](https://www.akufadhl.com) @holdontype(https://www.holdontype.design)
+Copyright 2023 [Fadhl Haqq](https://www.akufadhl.com) [@holdontype](https://www.holdontype.design)
 
 Made possible with the [GlyphsSDK](https://github.com/schriftgestalt/GlyphsSDK) by Georg Seifert (@schriftgestalt), Jan Gerner (@yanone) and Rainer Erich Scheichelbauer (@mekkablue).
 
